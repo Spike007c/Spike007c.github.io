@@ -1,8 +1,8 @@
 ---
-title: Hey, I'm Jane Doe!
+title: Hey, I'm Felipe Arango!
 description: this is meta description
-image: "@assets/profile/jane-doe.jpg"
+image: "@assets/images/dev2.jpg"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+Software developer with experience in the design, installation, testing, and maintenance of telecommunications networks, software systems, and hardware. Mastery of multiple platforms, languages, and embedded systems. Experience with the most cutting-edge development tools and procedures. Able to effectively self-manage independent projects. Strong collaboration skills within a productive team.
